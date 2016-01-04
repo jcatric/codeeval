@@ -6,7 +6,8 @@
 * Challenge description in _/docs_
 * Code PHP in _/codes/php_
 * Code JAVA in _/codes/java_
-* Tests data in _/datas_
+* Code JavaScript in _/codes/js_
+* Data for testing in _/datas_
 
 #Launch
 Execute challenge PHP from root dir
@@ -76,4 +77,4 @@ php codes/php/ChallengeName.php datas/ChallengeName.txt
 
 #Contributor
 
-[My Profil](https://www.codeeval.com/profile/jcatric/) at CodeEval
+My [profil](https://www.codeeval.com/profile/jcatric/) at CodeEval
