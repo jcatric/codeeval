@@ -12,6 +12,10 @@
 Execute challenge PHP from root dir
 
 ```
+#challenge without data
+php codes/php/ChallengeName.php
+
+#challenge with data
 php codes/php/ChallengeName.php datas/ChallengeName.txt
 ```
 
