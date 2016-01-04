@@ -6,7 +6,7 @@
  * @param String $strNumber nombre
  * @return bool true si c'est un nombre armstrong
  */
-function isAmstrongNumber($strNumber)
+function isArmstrongNumber($strNumber)
 {
     $deg = strlen($strNumber);
     $n = intval($strNumber, 10);
@@ -29,6 +29,6 @@ $lines = file($argv[1], FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
 foreach ($lines as $line) {
     $line = trim($line);
-    print_r(ucfirst(isAmstrongNumber($line)));
+    print_r(ucfirst(isArmstrongNumber($line)));
     print_r("\n");
 }
