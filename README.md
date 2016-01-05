@@ -1,5 +1,5 @@
 # Synopsis
-[Codeeval](http://www.codeeval.com/) Challenges 
+Resolution of [Codeeval](http://www.codeeval.com/) challenges 
 
 #Structure
 
